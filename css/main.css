@@ -52,8 +52,8 @@ nav li {
 }
 
 nav a {
-  color: #fff
-;font-size: 2rem;
+  color: #fff;
+  font-size: 2rem;
 }
 
 header {
@@ -83,4 +83,5 @@ img {
 h2 {
   margin: 0;
   font-family: "Patua One", sans-serif;
+  color: #30658d;
 }
