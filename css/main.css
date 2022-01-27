@@ -2,7 +2,7 @@ html {
   box-sizing: border-box;
   font-family: Georgia, serif;
   line-height: 1.5;
-  background-color: #f2f1ed
+  background-color: #f2f1ed;
 }
 
 *,
@@ -53,7 +53,7 @@ nav li {
 
 nav a {
   color: #fff
-  font-size: 2rem;
+;font-size: 2rem;
 }
 
 header {
@@ -69,11 +69,11 @@ figure {
 }
 
 figure:nth-child(1) {
-   grid-area: figure1;
+  grid-area: figure1;
 }
 
 figure:nth-child(2) {
-   grid-area: figure2;
+  grid-area: figure2;
 }
 
 img {
